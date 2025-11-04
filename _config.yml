@@ -1,0 +1,6 @@
+title: [Your Name]'s Portfolio
+description: A showcase of my work and skills.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
